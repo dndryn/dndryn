@@ -1,6 +1,6 @@
 # 👋 Hi, I’m jonatan
 
-👀 I’m interested in **web development** and *nigiri*
+### 👀 I’m interested in **web development**, *design* and 🍣!
 
 see ya!
 
